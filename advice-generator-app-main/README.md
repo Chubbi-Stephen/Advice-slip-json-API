@@ -58,9 +58,9 @@ Building this app, i was able to revisit topics surrounding APIs and i found it 
 
 ## Author
 
-- Website - [Add your name here](https://www.devchubbiportfolio.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Chubbi_Stephen)
-- Twitter - [@yourusername](https://www.twitter.com/devChubbi)
+- Website - [devChubbi](https://www.devchubbiportfolio.netlify.app)
+- Frontend Mentor - [@Chubbi_Stephen](https://www.frontendmentor.io/profile/Chubbi-Stephen)
+- Twitter - [@devChubbi](https://www.twitter.com/devChubbi)
 
 ## Acknowledgments
 
