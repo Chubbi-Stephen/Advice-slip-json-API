@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://advice-api-app.netlify.app/)
+- Solution URL: [Advice-Api-App](https://advice-api-app.netlify.app/)
 
 ## My Process
 
@@ -54,7 +54,7 @@ Building this app, i was able to revisit topics surrounding APIs and i found it 
 
 ### Useful resources
 
-- [Example resource 1](https://devdocs.io/) - This helped juggle my memory when i needed a refresher.
+- [devdocs.io](https://devdocs.io/) - This helped juggle my memory when i needed a refresher.
 
 ## Author
 
